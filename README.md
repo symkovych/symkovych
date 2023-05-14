@@ -38,7 +38,7 @@ I have five years of experience in software front-end development. Deep knowledg
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-I started my coding journey in the institute. My paper topic was a LAMP (Linux, Apach, MySQL, Perl) web application for schools. I taught IT in a public school after my degree. The school program linked to Pascal language, it was outdated so I added Python to my teaching materials. Anyway it was a nice experience but I wanted to develop my coding skills so I signed into a fullstack (React/Node) course in 2017. I got my course certificate and in the same week I got a job in IT company in my hometown. I worked there for 4 years. After years of fruit corporation with the IT company. I decided to learn a new tech stack for this reason I went to another company which uses GraphQL Apollo Typescript trio.
+I started my coding journey in the institute. My paper topic was a LAMP (Linux, Apach, MySQL, Perl) web application for schools. I taught IT in a public school after my degree. The school program linked to Pascal language, it was outdated so I added Python to my teaching materials. Anyway it was a nice experience but I wanted to develop my coding skills so I signed into a fullstack (React/Node) course in 2017. I got my course certificate and in the same week I got a job in IT company in my hometown. I worked there for 4 years. After years of fruitful cooperation with the IT company, I decided to learn a new tech stack for this reason I went to another company which uses GraphQL Apollo Typescript trio.
 
 My devops and BE skills aren't my strong side, for this reason I am doing more fullstack tasks in my current project and I am learning the aws developer associate course.
    
